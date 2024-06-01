@@ -1,0 +1,35 @@
+body {
+    color: black;
+    background: linear-gradient( to right, #00BFFF,#F8F8FF,#FF69B4);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+header img {   
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid aqua;
+    justify-content: center;
+}
+
+.center{
+    justify-content: center;
+}
+
+footer img {
+    width: 50x;
+    height: 50px;
+}
+
+h1, h2, h3 {
+    color: #0056b3;
+}
+p {
+    margin-bottom: 1em;
+}
+ul {
+    list-style: disc;
+    margin: 0 0 1em 20px;
+}
